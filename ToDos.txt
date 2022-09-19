@@ -1,0 +1,4 @@
+- change prints to loggings (thread safe)
+- Crawler Manager : datastore abstraction (instead of writing to file)
+-Base Analyzer class for different kinds of data and usages
+  and add mor generalizations like weights and more...
